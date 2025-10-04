@@ -77,7 +77,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cheth-k/cheth-k/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cheth-k/chenithz-gh/output/snake.svg" alt="Snake animation" />
 
 ###
 ##
