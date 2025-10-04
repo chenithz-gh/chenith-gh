@@ -76,5 +76,9 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/cheth-k/cheth-k/output/snake.svg" alt="Snake animation" />
+
+###
 ##
 
